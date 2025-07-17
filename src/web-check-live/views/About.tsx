@@ -171,7 +171,7 @@ const About = (): JSX.Element => {
         </SponsorshipContainer>
         <hr />
         <p>
-          Web-Check is developed and maintained by <a target="_blank" rel="noreferrer" href="https://mazediseno.cl">Alicia Sykes</a>.
+          Web-Check is developed and maintained by <a target="_blank" rel="noreferrer" href="https://mazediseno.cl">Maze Diseño</a>.
           It's licensed under the <a target="_blank" rel="noreferrer" href="https://github.com/abalegno/web-check/blob/master/LICENSE">MIT license</a>,
           and is completely free to use, modify and distribute in both personal and commercial settings.<br />
           Source code and self-hosting docs are available on <a target="_blank" rel="noreferrer" href="https://github.com/abalegno/web-check">GitHub</a>.
@@ -311,7 +311,7 @@ const About = (): JSX.Element => {
       <Heading as="h3" size="small" color={colors.primary}>License</Heading>
         <b>
           <a target="_blank" rel="noreferrer" href="https://github.com/abalegno/web-check">Web-Check</a> is distributed under the MIT license,
-          © <a target="_blank" rel="noreferrer" href="https://mazediseno.cl">Alicia Sykes</a> { new Date().getFullYear()}
+          © <a target="_blank" rel="noreferrer" href="https://mazediseno.cl">Maze Diseño</a> { new Date().getFullYear()}
         </b>
         <br />
         <small>For more info, see <a target="_blank" rel="noreferrer" href="https://tldrlegal.com/license/mit-license">TLDR Legal → MIT</a></small>

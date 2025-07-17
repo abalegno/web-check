@@ -909,7 +909,7 @@ Credit to the following users for contributing to Web-Check
                 <a href="https://github.com/Lissy93">
                     <img src="https://avatars.githubusercontent.com/u/1862727?v=4" width="80;" alt="Lissy93"/>
                     <br />
-                    <sub><b>Alicia Sykes</b></sub>
+                    <sub><b>Maze Diseño</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -1270,7 +1270,7 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
 
 ## License
 
-> _**[Lissy93/Web-Check](https://github.com/abalegno/web-check)** is licensed under [MIT](https://github.com/abalegno/web-check/blob/HEAD/LICENSE) © [Alicia Sykes](https://mazediseno.cl) 2023._<br>
+> _**[Lissy93/Web-Check](https://github.com/abalegno/web-check)** is licensed under [MIT](https://github.com/abalegno/web-check/blob/HEAD/LICENSE) © [Maze Diseño](https://mazediseno.cl) 2023._<br>
 > <sup align="right">For information, see <a href="https://tldrlegal.com/license/mit-license">TLDR Legal > MIT</a></sup>
 
 <details>
@@ -1278,7 +1278,7 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
 
 ```
 The MIT License (MIT)
-Copyright (c) Alicia Sykes <alicia@omg.com> 
+Copyright (c) Maze Diseño <alicia@omg.com> 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy 
 of this software and associated documentation files (the "Software"), to deal 
@@ -1305,7 +1305,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <!-- License + Copyright -->
 <p  align="center">
-  <i>© <a href="https://mazediseno.cl">Alicia Sykes</a> 2023</i><br>
+  <i>© <a href="https://mazediseno.cl">Maze Diseño</a> 2023</i><br>
   <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
   <a href="https://github.com/lissy93"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <sup>Thanks for visiting :)</sup>
