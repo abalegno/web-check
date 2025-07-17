@@ -26,7 +26,7 @@ li a.resource-wrap {
   border: none;
   border-radius: 0.25rem;
   font-family: PTMono;
-  box-sizing: border-box; 
+ box-sizing: border-box;
   width: -moz-available;
   box-shadow: 3px 3px 0px ${colors.backgroundDarker};
   &:hover {
@@ -286,7 +286,7 @@ const AdditionalResources = (props: { url?: string }): JSX.Element => {
     <Note>
       These tools are not affiliated with Web-Check. Please use them at your own risk.<br />
       At the time of listing, all of the above were available and free to use
-      - if this changes, please report it via GitHub (<a href="https://github.com/lissy93/web-check">lissy93/web-check</a>).
+      - if this changes, please report it via GitHub (<a href="https://github.com/abalegno/web-check">lissy93/web-check</a>).
     </Note>
   </Card>);
 }

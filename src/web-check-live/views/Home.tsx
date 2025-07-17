@@ -19,7 +19,7 @@ const HomeContainer = styled.section`
   justify-content: center;
   align-items: center;
   height: 100%;
-  font-family: 'PTMono';
+  font-family: 'Orbitron', sans-serif;
   padding: 1.5rem 1rem 4rem 1rem;
   footer {
     z-index: 1;
@@ -219,8 +219,8 @@ const Home = (): JSX.Element => {
       <UserInputMain onSubmit={formSubmitEvent}>
         <a href="/">
           <Heading as="h1" size="xLarge" align="center" color={colors.primary}>
-            <img width="64" src="/web-check.png" alt="Web Check Icon" />
-            Web Check
+          <a href="https://mazediseno.cl/" target="_self"><img width="64" src="https://mazediseno.cl/wp-content/uploads/2024/09/Maze-Icon.svg" alt="Web Check Icon" /></a>
+            Web Check by Maze
           </Heading>
         </a>
         <Input
@@ -282,10 +282,10 @@ const Home = (): JSX.Element => {
           </ul>
         </div>
         <div className="links">
-          <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check" title="Check out the source code and documentation on GitHub, and get support or contribute">
+          <a target="_blank" rel="noreferrer" href="https://github.com/abalegno/web-check" title="Check out the source code and documentation on GitHub, and get support or contribute">
             <Button>View on GitHub</Button>
           </a>
-          <a target="_blank" rel="noreferrer" href="https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/web-check" title="Deploy your own private or public instance of Web-Check to Netlify">
+          <a target="_blank" rel="noreferrer" href="https://app.netlify.com/start/deploy?repository=https://github.com/abalegno/web-check" title="Deploy your own private or public instance of Web-Check to Netlify">
             <Button>Deploy your own</Button>
           </a>
           <Link to="/check/about#api-documentation" title="View the API documentation, to use Web-Check programmatically">

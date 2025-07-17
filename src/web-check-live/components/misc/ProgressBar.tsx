@@ -137,7 +137,7 @@ const DismissButton = styled.button`
   border: none;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
-  font-family: PTMono;
+  font-family: 'Orbitron', sans-serif;
   cursor: pointer;
   &:hover {
     color: ${colors.primary};
@@ -151,7 +151,7 @@ const FailedJobActionButton = styled.button`
   border: none;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
-  font-family: PTMono;
+  font-family: 'Orbitron', sans-serif;
   cursor: pointer;
   border: 1px solid ${colors.textColorSecondary};
   transition: all 0.2s ease-in-out;

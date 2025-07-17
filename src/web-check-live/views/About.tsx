@@ -140,7 +140,7 @@ const About = (): JSX.Element => {
     <AboutContainer>
       <Nav>
         <HeaderLinkContainer>
-          <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check"><Button>View on GitHub</Button></a>
+          <a target="_blank" rel="noreferrer" href="https://github.com/abalegno/web-check"><Button>View on GitHub</Button></a>
         </HeaderLinkContainer>
       </Nav>
 
@@ -171,10 +171,10 @@ const About = (): JSX.Element => {
         </SponsorshipContainer>
         <hr />
         <p>
-          Web-Check is developed and maintained by <a target="_blank" rel="noreferrer" href="https://aliciasykes.com">Alicia Sykes</a>.
-          It's licensed under the <a target="_blank" rel="noreferrer" href="https://github.com/Lissy93/web-check/blob/master/LICENSE">MIT license</a>,
+          Web-Check is developed and maintained by <a target="_blank" rel="noreferrer" href="https://mazediseno.cl">Alicia Sykes</a>.
+          It's licensed under the <a target="_blank" rel="noreferrer" href="https://github.com/abalegno/web-check/blob/master/LICENSE">MIT license</a>,
           and is completely free to use, modify and distribute in both personal and commercial settings.<br />
-          Source code and self-hosting docs are available on <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check">GitHub</a>.
+          Source code and self-hosting docs are available on <a target="_blank" rel="noreferrer" href="https://github.com/abalegno/web-check">GitHub</a>.
           If you've found this service useful, consider <a target="_blank" rel="noreferrer" href="https://github.com/sponsors/Lissy93">sponsoring me</a> from $1/month,
           to help with the ongoing hosting and development costs.
         </p>
@@ -233,7 +233,7 @@ const About = (): JSX.Element => {
         <p>Web-Check is designed to be easily self-hosted.</p>
         <Heading as="h3" size="small" color={colors.primary}>Option #1 - Netlify</Heading>
         <p>Click the button below to deploy to Netlify</p>
-        <a target="_blank" rel="noreferrer" href="https://app.netlify.com/start/deploy?repository=https://github.com/lissy93/web-check">
+        <a target="_blank" rel="noreferrer" href="https://app.netlify.com/start/deploy?repository=https://github.com/abalegno/web-check">
           <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />
         </a>
 
@@ -253,7 +253,7 @@ const About = (): JSX.Element => {
 
         <Heading as="h3" size="small" color={colors.primary}>Option #4 - Manual</Heading>
         <pre>
-        git clone https://github.com/Lissy93/web-check.git<br />
+        git clone https://github.com/abalegno/web-check.git<br />
         cd web-check # Move into the project directory<br />
         yarn install # Install dependencies<br />
         yarn build # Build the app for production<br />
@@ -263,7 +263,7 @@ const About = (): JSX.Element => {
         <Heading as="h3" size="small" color={colors.primary}>Further Docs</Heading>
         <p>
           More detailed installation and setup instructions can be found in the
-          GitHub repository - <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check#readme">github.com/lissy93/web-check</a>
+          GitHub repository - <a target="_blank" rel="noreferrer" href="https://github.com/abalegno/web-check#readme">github.com/abalegno/web-check</a>
         </p>
 
         <Heading as="h3" size="small" color={colors.primary}>Configuring</Heading>
@@ -310,8 +310,8 @@ const About = (): JSX.Element => {
       <Section>
       <Heading as="h3" size="small" color={colors.primary}>License</Heading>
         <b>
-          <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check">Web-Check</a> is distributed under the MIT license,
-          © <a target="_blank" rel="noreferrer" href="https://aliciasykes.com">Alicia Sykes</a> { new Date().getFullYear()}
+          <a target="_blank" rel="noreferrer" href="https://github.com/abalegno/web-check">Web-Check</a> is distributed under the MIT license,
+          © <a target="_blank" rel="noreferrer" href="https://mazediseno.cl">Alicia Sykes</a> { new Date().getFullYear()}
         </b>
         <br />
         <small>For more info, see <a target="_blank" rel="noreferrer" href="https://tldrlegal.com/license/mit-license">TLDR Legal → MIT</a></small>

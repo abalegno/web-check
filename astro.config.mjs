@@ -60,7 +60,7 @@ console.log(
   `\x1b[35m\x1b[2mCompiling for "${deployTarget}" using "${output}" mode, `
   + `to deploy to "${site}" at "${base}"\x1b[0m\n`,
   `\x1b[2m\x1b[36m🛟 For documentation and support, visit the GitHub repo: ` +
-  `https://github.com/lissy93/web-check \n`,
+  `https://github.com/abalegno/web-check \n`,
   `💖 Found Web-Check useful? Consider sponsoring us on GitHub ` +
   `to help fund maintenance & development.\x1b[0m\n`,
 );

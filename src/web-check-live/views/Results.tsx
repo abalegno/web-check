@@ -107,7 +107,7 @@ const FilterButtons = styled.div`
     color: ${colors.textColor};
     border: none;
     border-radius: 4px;
-    font-family: 'PTMono';
+ font-family: 'Orbitron', sans-serif;
     padding: 0.25rem 0.5rem;
     border: 1px solid transparent;
     transition: all 0.2s ease-in-out;
@@ -908,7 +908,7 @@ const Results = (props: { address?: string } ): JSX.Element => {
             <a href="#view-download-raw-data"><span className="toggle-filters">Export Data</span></a>
             <a href="/about"><span className="toggle-filters">Learn about the Results</span></a>
             <a href="/about#additional-resources"><span className="toggle-filters">More tools</span></a>
-            <a target="_blank" rel="noreferrer" href="https://github.com/lissy93/web-check"><span className="toggle-filters">View GitHub</span></a>
+            <a target="_blank" rel="noreferrer" href="https://github.com/abalegno/web-check"><span className="toggle-filters">View GitHub</span></a>
           </div>
       ) }
       </FilterButtons>
