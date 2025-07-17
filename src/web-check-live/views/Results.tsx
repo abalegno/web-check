@@ -107,7 +107,7 @@ const FilterButtons = styled.div`
     color: ${colors.textColor};
     border: none;
     border-radius: 4px;
- font-family: 'Orbitron', sans-serif;
+    font-family: 'Orbitron', sans-serif;
     padding: 0.25rem 0.5rem;
     border: 1px solid transparent;
     transition: all 0.2s ease-in-out;
