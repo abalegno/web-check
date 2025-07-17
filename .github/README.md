@@ -341,7 +341,7 @@ In OSINT investigations, traceroute can provide insights about the routing paths
 <details>
 <summary><b>Carbon Footprint</b></summary>
 
-<img width="300" src="https://i.ibb.co/5v6fSyw/Screenshot-from-2023-07-29-19-07-50.png" align="right" />
+<img width="300" src="https://i.ibb.co/5v6fSyw/Screenshot-from-2025-07-29-19-07-50.png" align="right" />
 
 ###### Description
 This task calculates the estimated carbon footprint of a website. It's based on the amount of data being transferred and processed, and the energy usage of the servers that host and deliver the website. The larger the website and the more complex its features, the higher its carbon footprint is likely to be.
@@ -446,7 +446,7 @@ This is useful to understand what a site is capable of, and what technologies to
 <details>
 <summary><b>HTTP Strict Transport Security</b></summary>
 
-<img width="300" src="https://i.ibb.co/k253fq4/Screenshot-from-2023-07-17-20-10-52.png" align="right" />
+<img width="300" src="https://i.ibb.co/k253fq4/Screenshot-from-2025-07-17-20-10-52.png" align="right" />
 
 ###### Description
 HTTP Strict Transport Security (HSTS) is a web security policy mechanism that helps protect websites against protocol downgrade attacks and cookie hijacking. A website can be included in the HSTS preload list by conforming to a set of requirements and then submitting itself to the list.
@@ -470,7 +470,7 @@ There are several reasons why it's important for a site to be HSTS enabled:
 <details>
 <summary><b>DNS Server</b></summary>
 
-<img width="300" src="https://i.ibb.co/tKpL8F9/Screenshot-from-2023-08-12-15-43-12.png" align="right" />
+<img width="300" src="https://i.ibb.co/tKpL8F9/Screenshot-from-2025-08-12-15-43-12.png" align="right" />
 
 ###### Description
 This check determines the DNS server(s) that the requested URL / IP resolves to. Also fires off a rudimentary check to see if the DNS server supports DoH, and weather it's vulnerable to DNS cache poisoning.
@@ -484,7 +484,7 @@ This check determines the DNS server(s) that the requested URL / IP resolves to.
 <details>
 <summary><b>Tech Stack</b></summary>
 
-<img width="300" src="https://i.ibb.co/bBQSQNz/Screenshot-from-2023-08-12-15-43-46.png" align="right" />
+<img width="300" src="https://i.ibb.co/bBQSQNz/Screenshot-from-2025-08-12-15-43-46.png" align="right" />
 
 ###### Description
 Checks what technologies a site is built with. This is done by fetching and parsing the site, then comparing it against a bit list of RegEx maintained by Wappalyzer to identify the unique fingerprints that different technologies leave.
@@ -500,7 +500,7 @@ Identifying a website's tech stack aids in evaluating its security by exposing p
 <details>
 <summary><b>Listed Pages</b></summary>
 
-<img width="300" src="https://i.ibb.co/GtrCQYq/Screenshot-from-2023-07-21-12-28-38.png" align="right" />
+<img width="300" src="https://i.ibb.co/GtrCQYq/Screenshot-from-2025-07-21-12-28-38.png" align="right" />
 
 ###### Description
 This job finds and parses a site's listed sitemap. This file lists public sub-pages on the site, which the author wishes to be crawled by search engines. Sitemaps help with SEO, but are also useful for seeing all a sites public content at a glance.
@@ -517,7 +517,7 @@ Understand the structure of a site's public-facing content, and for site-owners,
 <details>
 <summary><b>Security.txt</b></summary>
 
-<img width="300" src="https://i.ibb.co/tq1FT5r/Screenshot-from-2023-07-24-20-31-21.png" align="right" />
+<img width="300" src="https://i.ibb.co/tq1FT5r/Screenshot-from-2025-07-24-20-31-21.png" align="right" />
 
 ###### Description
 The security.txt file tells researchers how they can responsibly disclose any security issues found on your site. The standard was proposed in RFC 9116, and specifies that this file should include a point of contact (email address), as well as optionally other info, like a link to the security disclosure policy, PGP key, proffered language, policy expiry and more. The file should be located at the root of your domain, either at /security.txt or /.well-known/security.txt.
@@ -537,7 +537,7 @@ This is important, as without a defined point of contact a security researcher m
 <details>
 <summary><b>Linked Pages</b></summary>
 
-<img width="300" src="https://i.ibb.co/LtK14XR/Screenshot-from-2023-07-29-11-16-44.png" align="right" />
+<img width="300" src="https://i.ibb.co/LtK14XR/Screenshot-from-2025-07-29-11-16-44.png" align="right" />
 
 ###### Description
 Displays all internal and external links found on a site, identified by the href attributes attached to anchor elements.
@@ -552,7 +552,7 @@ For site owners, this is useful for diagnosing SEO issues, improving the site st
 <details>
 <summary><b>Social Tags</b></summary>
 
-<img width="300" src="https://i.ibb.co/4srTT1w/Screenshot-from-2023-07-29-11-15-27.png" align="right" />
+<img width="300" src="https://i.ibb.co/4srTT1w/Screenshot-from-2025-07-29-11-15-27.png" align="right" />
 
 ###### Description
 Websites can include certain meta tags, that tell search engines and social media platforms what info to display. This usually includes a title, description, thumbnail, keywords, author, social accounts, etc.
@@ -572,7 +572,7 @@ Adding this data to your site will boost SEO, and as an OSINT researcher it can 
 <details>
 <summary><b>Email Configuration</b></summary>
 
-<img width="300" src="https://i.ibb.co/yqhwx5G/Screenshot-from-2023-07-29-18-22-20.png" align="right" />
+<img width="300" src="https://i.ibb.co/yqhwx5G/Screenshot-from-2025-07-29-18-22-20.png" align="right" />
 
 ###### Description
 DMARC (Domain-based Message Authentication, Reporting & Conformance): DMARC is an email authentication protocol that works with SPF and DKIM to prevent email spoofing and phishing. It allows domain owners to specify how to handle unauthenticated mail via a published policy in DNS, and provides a way for receiving mail servers to send feedback about emails' compliance to the sender. BIMI (Brand Indicators for Message Identification): BIMI is an emerging email standard that enables organizations to display a logo in their customers' email clients automatically. BIMI ties the logo to the domain's DMARC record, providing another level of visual assurance to recipients that the email is legitimate. DKIM (DomainKeys Identified Mail): DKIM is an email security standard designed to make sure that messages were not altered in transit between the sending and recipient servers. It uses digital signatures linked to the domain of the sender to verify the sender and ensure message integrity. SPF (Sender Policy Framework): SPF is an email authentication method designed to prevent email spoofing. It specifies which mail servers are authorized to send email on behalf of a domain by creating a DNS record. This helps protect against spam by providing a way for receiving mail servers to check that incoming mail from a domain comes from a host authorized by that domain's administrators.
@@ -593,7 +593,7 @@ This information is helpful for researchers as it helps assess a domain's email 
 <details>
 <summary><b>Firewall Detection</b></summary>
 
-<img width="300" src="https://i.ibb.co/MfcxQt2/Screenshot-from-2023-08-12-15-40-52.png" align="right" />
+<img width="300" src="https://i.ibb.co/MfcxQt2/Screenshot-from-2025-08-12-15-40-52.png" align="right" />
 
 ###### Description
 A WAF or web application firewall helps protect web applications by filtering and monitoring HTTP traffic between a web application and the Internet. It typically protects web applications from attacks such as cross-site forgery, cross-site-scripting (XSS), file inclusion, and SQL injection, among others.
@@ -611,7 +611,7 @@ It's useful to understand if a site is using a WAF, and which firewall software 
 <details>
 <summary><b>HTTP Security Features</b></summary>
 
-<img width="300" src="https://i.ibb.co/LP05HMV/Screenshot-from-2023-08-12-15-40-28.png" align="right" />
+<img width="300" src="https://i.ibb.co/LP05HMV/Screenshot-from-2025-08-12-15-40-28.png" align="right" />
 
 ###### Description
 Correctly configured security HTTP headers adds a layer of protection against common attacks to your site. The main headers to be aware of are: HTTP Strict Transport Security (HSTS): Enforces the use of HTTPS, mitigating man-in-the-middle attacks and protocol downgrade attempts. Content Security Policy (CSP): Constrains web page resources to prevent cross-site scripting and data injection attacks. X-Content-Type-Options: Prevents browsers from MIME-sniffing a response away from the declared content type, curbing MIME-type confusion attacks. X-Frame-Options: Protects users from clickjacking attacks by controlling whether a browser should render the page in a `<frame>`, `<iframe>`, `<embed>`, or `<object>`. 
@@ -636,7 +636,7 @@ Reviewing security headers is important, as it offers insights into a site's def
 <details>
 <summary><b>Archive History</b></summary>
 
-<img width="300" src="https://i.ibb.co/nB9szT1/Screenshot-from-2023-08-14-22-31-16.png" align="right" />
+<img width="300" src="https://i.ibb.co/nB9szT1/Screenshot-from-2025-08-14-22-31-16.png" align="right" />
 
 ###### Description
 Fetches full history of archives from the Wayback machine
@@ -651,7 +651,7 @@ This is useful for understanding the history of a site, and how it has changed o
 <details>
 <summary><b>Global Ranking</b></summary>
 
-<img width="300" src="https://i.ibb.co/nkbczgb/Screenshot-from-2023-08-14-22-02-40.png" align="right" />
+<img width="300" src="https://i.ibb.co/nkbczgb/Screenshot-from-2025-08-14-22-02-40.png" align="right" />
 
 ###### Description
 This check shows the global rank of the requested site. This is only accurate for websites which are in the top 100 million list. We're using data from the Tranco project (see below), which collates the top sites on the web from Umbrella, Majestic, Quantcast, the Chrome User Experience Report and Cloudflare Radar.
@@ -667,7 +667,7 @@ Knowing a websites overall global rank can be useful for understanding the scale
 <details>
 <summary><b>Block Detection</b></summary>
 
-<img width="300" src="https://i.ibb.co/M5JSXbW/Screenshot-from-2023-08-26-12-12-43.png" align="right" />
+<img width="300" src="https://i.ibb.co/M5JSXbW/Screenshot-from-2025-08-26-12-12-43.png" align="right" />
 
 ###### Description
 Checks access to the URL using 10+ of the most popular privacy, malware and parental control blocking DNS servers.
@@ -682,7 +682,7 @@ Checks access to the URL using 10+ of the most popular privacy, malware and pare
 <details>
 <summary><b>Malware & Phishing Detection</b></summary>
 
-<img width="300" src="https://i.ibb.co/hYgy621/Screenshot-from-2023-08-26-12-07-47.png" align="right" />
+<img width="300" src="https://i.ibb.co/hYgy621/Screenshot-from-2025-08-26-12-07-47.png" align="right" />
 
 ###### Description
 Checks if a site appears in several common malware and phishing lists, to determine it's threat level.
@@ -698,7 +698,7 @@ Knowing if a site is listed as a threat by any of these services can be useful f
 <details>
 <summary><b>TLS Cipher Suites</b></summary>
 
-<img width="300" src="https://i.ibb.co/6ydtH5R/Screenshot-from-2023-08-26-12-09-58.png" align="right" />
+<img width="300" src="https://i.ibb.co/6ydtH5R/Screenshot-from-2025-08-26-12-09-58.png" align="right" />
 
 ###### Description
 These are combinations of cryptographic algorithms used by the server to establish a secure connection. It includes the key exchange algorithm, bulk encryption algorithm, MAC algorithm, and PRF (pseudorandom function).
@@ -714,7 +714,7 @@ This is important info to test for from a security perspective. Because a cipher
 <details>
 <summary><b>TLS Security Config</b></summary>
 
-<img width="300" src="https://i.ibb.co/FmksZJt/Screenshot-from-2023-08-26-12-12-09.png" align="right" />
+<img width="300" src="https://i.ibb.co/FmksZJt/Screenshot-from-2025-08-26-12-12-09.png" align="right" />
 
 ###### Description
 This uses guidelines from Mozilla's TLS Observatory to check the security of the TLS configuration. It checks for bad configurations, which may leave the site vulnerable to attack, as well as giving advice on how to fix. It will also give suggestions around outdated and modern TLS configs
@@ -728,7 +728,7 @@ Understanding issues with a site's TLS configuration will help you address poten
 <details>
 <summary><b>TLS Handshake Simulation</b></summary>
 
-<img width="300" src="https://i.ibb.co/F7qRZkh/Screenshot-from-2023-08-26-12-11-28.png" align="right" />
+<img width="300" src="https://i.ibb.co/F7qRZkh/Screenshot-from-2025-08-26-12-11-28.png" align="right" />
 
 ###### Description
 This simulates how different clients (browsers, operating systems) would perform a TLS handshake with the server. It helps identify compatibility issues and insecure configurations.
@@ -744,7 +744,7 @@ This simulates how different clients (browsers, operating systems) would perform
 <details>
 <summary><b>Screenshot</b></summary>
 
-<img width="300" src="https://i.ibb.co/2F0x8kP/Screenshot-from-2023-07-29-18-34-48.png" align="right" />
+<img width="300" src="https://i.ibb.co/2F0x8kP/Screenshot-from-2025-07-29-18-34-48.png" align="right" />
 
 ###### Description
 This check takes a screenshot of webpage that the requested URL / IP resolves to, and displays it.
@@ -1270,7 +1270,7 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
 
 ## License
 
-> _**[Lissy93/Web-Check](https://github.com/abalegno/web-check)** is licensed under [MIT](https://github.com/abalegno/web-check/blob/HEAD/LICENSE) © [Maze Diseño](https://mazediseno.cl) 2023._<br>
+> _**[Lissy93/Web-Check](https://github.com/abalegno/web-check)** is licensed under [MIT](https://github.com/abalegno/web-check/blob/HEAD/LICENSE) © [Maze Diseño](https://mazediseno.cl) 2025._<br>
 > <sup align="right">For information, see <a href="https://tldrlegal.com/license/mit-license">TLDR Legal > MIT</a></sup>
 
 <details>
@@ -1305,7 +1305,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <!-- License + Copyright -->
 <p  align="center">
-  <i>© <a href="https://mazediseno.cl">Maze Diseño</a> 2023</i><br>
+  <i>© <a href="https://mazediseno.cl">Maze Diseño</a> 2025</i><br>
   <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
   <a href="https://github.com/lissy93"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <sup>Thanks for visiting :)</sup>

@@ -1663,7 +1663,7 @@ paths:
                                 type: string
                                 format: date
                               description: The last modification date of the page
-                              example: "2023-08-22"
+                              example: "2025-08-22"
                             changefreq:
                               type: array
                               items:
@@ -1895,7 +1895,7 @@ paths:
                   valid_from:
                     type: string
                     description: The start date of the certificate's validity period
-                    example: "Oct  3 00:00:00 2023 GMT"
+                    example: "Oct  3 00:00:00 2025 GMT"
                   valid_to:
                     type: string
                     description: The end date of the certificate's validity period
