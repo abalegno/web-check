@@ -5,7 +5,7 @@
 <img src="https://mazediseno.cl/wp-content/uploads/2024/09/Maze-Icon.svg" width="96" /><br />
 <b><i>Comprehensive, on-demand open source intelligence for any website</i></b>
 <br />
-<b>🌐 <a href="https://web-check.xyz/">web-check.xyz</a></b><br />
+<b>🌐 <a href="https://checker.mazediseno.cl/">web-check.xyz</a></b><br />
 
 </p>
 
@@ -757,7 +757,7 @@ This may be useful to see what a given website looks like, free of the constrain
 
 </details>
 
-Read more here: **[web-check.xyz/about](https://web-check.xyz/about)**
+Read more here: **[web-check.xyz/about](https://checker.mazediseno.cl/about)**
 
 ---
 
