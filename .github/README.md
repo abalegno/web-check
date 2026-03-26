@@ -2,10 +2,10 @@
 
 
 <p align="center">
-<img src="https://mazediseno.cl/wp-content/uploads/2024/09/Maze-Icon.svg" width="96" /><br />
+<img src="https://mazedigital.cl/wp-content/uploads/2024/09/Maze-Icon.svg" width="96" /><br />
 <b><i>Comprehensive, on-demand open source intelligence for any website</i></b>
 <br />
-<b>🌐 <a href="https://checker.mazediseno.cl/">web-check.xyz</a></b><br />
+<b>🌐 <a href="https://checker.mazedigital.cl/">web-check.xyz</a></b><br />
 
 </p>
 
@@ -757,7 +757,7 @@ This may be useful to see what a given website looks like, free of the constrain
 
 </details>
 
-Read more here: **[web-check.xyz/about](https://checker.mazediseno.cl/about)**
+Read more here: **[web-check.xyz/about](https://checker.mazedigital.cl/about)**
 
 ---
 
@@ -1270,7 +1270,7 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
 
 ## License
 
-> _**[Lissy93/Web-Check](https://github.com/abalegno/web-check)** is licensed under [MIT](https://github.com/abalegno/web-check/blob/HEAD/LICENSE) © [Maze Diseño](https://mazediseno.cl) 2025._<br>
+> _**[Lissy93/Web-Check](https://github.com/abalegno/web-check)** is licensed under [MIT](https://github.com/abalegno/web-check/blob/HEAD/LICENSE) © [Maze Diseño](https://mazedigital.cl) 2025._<br>
 > <sup align="right">For information, see <a href="https://tldrlegal.com/license/mit-license">TLDR Legal > MIT</a></sup>
 
 <details>
@@ -1305,7 +1305,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <!-- License + Copyright -->
 <p  align="center">
-  <i>© <a href="https://mazediseno.cl">Maze Diseño</a> 2025</i><br>
+  <i>© <a href="https://mazedigital.cl">Maze Diseño</a> 2025</i><br>
   <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
   <a href="https://github.com/lissy93"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <sup>Thanks for visiting :)</sup>
