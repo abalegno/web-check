@@ -219,7 +219,7 @@ const Home = (): JSX.Element => {
       <UserInputMain onSubmit={formSubmitEvent}>
         <a href="/">
           <Heading as="h1" size="xLarge" align="center" color={colors.primary}>
-          <a href="https://mazedigital.cl/" target="_self"><img width="64" src="https://mazedigital.cl/wp-content/uploads/2024/09/Maze-Icon.svg" alt="Web Check Icon" /></a>
+          <a href="https://mazedigital.cl/" target="_self"><img width="64" src="https://mazediseno.cl/wp-content/uploads/2024/09/Maze-Icon.svg" alt="Web Check Icon" /></a>
             Web Check by Maze
           </Heading>
         </a>

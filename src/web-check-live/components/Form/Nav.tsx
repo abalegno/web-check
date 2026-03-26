@@ -21,7 +21,7 @@ const Nav = (props: { children?: ReactNode}) => {
   return (
     <Header as="header">
     <Heading color={colors.primary} size="large">
-      <a href="https://mazedigital.cl/" target="_self"><img width="64" src="https://mazedigital.cl/wp-content/uploads/2024/09/Maze-Icon.svg" alt="Web Check Icon" /></a>
+      <a href="https://mazedigital.cl/" target="_self"><img width="64" src="https://mazediseno.cl/wp-content/uploads/2024/09/Maze-Icon.svg" alt="Web Check Icon" /></a>
       <a href="/" target="_self">Web Check by Maze</a>
     </Heading>
       {props.children && props.children}
