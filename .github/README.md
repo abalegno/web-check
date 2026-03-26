@@ -779,7 +779,8 @@ Click the button below, to deploy to Vercel 👇
 
 ### Deploying - Option #3: Docker
 
-Run `docker run -p 3000:3000 lissy93/web-check`, then open [`localhost:3000`](http://localhost:3000)
+Run `docker compose build --no-cache
+docker compose up -d`, then open [`localhost:3000`](http://localhost:3000)
 
 <details>
 <summary>Docker Options</summary>
